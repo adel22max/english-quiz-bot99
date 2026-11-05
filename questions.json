@@ -1,0 +1,3152 @@
+[
+  {
+    "q": "What is the English word for \"كتاب\"?",
+    "options": [
+      "book",
+      "chair",
+      "door"
+    ],
+    "explanation": "\"كتاب\" بالإنكليزي هي book."
+  },
+  {
+    "q": "What is the English word for \"قلم\"?",
+    "options": [
+      "pen",
+      "bed",
+      "cup"
+    ],
+    "explanation": "\"قلم\" بالإنكليزي هي pen."
+  },
+  {
+    "q": "What is the English word for \"باب\"?",
+    "options": [
+      "door",
+      "window",
+      "wall"
+    ],
+    "explanation": "\"باب\" بالإنكليزي هي door."
+  },
+  {
+    "q": "What is the English word for \"نافذة\"?",
+    "options": [
+      "window",
+      "door",
+      "floor"
+    ],
+    "explanation": "\"نافذة\" بالإنكليزي هي window."
+  },
+  {
+    "q": "What is the English word for \"طاولة\"?",
+    "options": [
+      "table",
+      "chair",
+      "bed"
+    ],
+    "explanation": "\"طاولة\" بالإنكليزي هي table."
+  },
+  {
+    "q": "What is the English word for \"مدرسة\"?",
+    "options": [
+      "school",
+      "hospital",
+      "market"
+    ],
+    "explanation": "\"مدرسة\" بالإنكليزي هي school."
+  },
+  {
+    "q": "What is the English word for \"مستشفى\"?",
+    "options": [
+      "hospital",
+      "school",
+      "airport"
+    ],
+    "explanation": "\"مستشفى\" بالإنكليزي هي hospital."
+  },
+  {
+    "q": "What is the English word for \"سوق\"?",
+    "options": [
+      "market",
+      "bank",
+      "library"
+    ],
+    "explanation": "\"سوق\" بالإنكليزي هي market."
+  },
+  {
+    "q": "What is the English word for \"مطار\"?",
+    "options": [
+      "airport",
+      "station",
+      "market"
+    ],
+    "explanation": "\"مطار\" بالإنكليزي هي airport."
+  },
+  {
+    "q": "What is the English word for \"شارع\"?",
+    "options": [
+      "street",
+      "river",
+      "mountain"
+    ],
+    "explanation": "\"شارع\" بالإنكليزي هي street."
+  },
+  {
+    "q": "What is the English word for \"نهر\"?",
+    "options": [
+      "river",
+      "sea",
+      "lake"
+    ],
+    "explanation": "\"نهر\" بالإنكليزي هي river."
+  },
+  {
+    "q": "What is the English word for \"بحر\"?",
+    "options": [
+      "sea",
+      "river",
+      "desert"
+    ],
+    "explanation": "\"بحر\" بالإنكليزي هي sea."
+  },
+  {
+    "q": "What is the English word for \"جبل\"?",
+    "options": [
+      "mountain",
+      "valley",
+      "island"
+    ],
+    "explanation": "\"جبل\" بالإنكليزي هي mountain."
+  },
+  {
+    "q": "What is the English word for \"شجرة\"?",
+    "options": [
+      "tree",
+      "flower",
+      "grass"
+    ],
+    "explanation": "\"شجرة\" بالإنكليزي هي tree."
+  },
+  {
+    "q": "What is the English word for \"زهرة\"?",
+    "options": [
+      "flower",
+      "tree",
+      "leaf"
+    ],
+    "explanation": "\"زهرة\" بالإنكليزي هي flower."
+  },
+  {
+    "q": "What is the English word for \"شمس\"?",
+    "options": [
+      "sun",
+      "moon",
+      "star"
+    ],
+    "explanation": "\"شمس\" بالإنكليزي هي sun."
+  },
+  {
+    "q": "What is the English word for \"قمر\"?",
+    "options": [
+      "moon",
+      "sun",
+      "cloud"
+    ],
+    "explanation": "\"قمر\" بالإنكليزي هي moon."
+  },
+  {
+    "q": "What is the English word for \"مطر\"?",
+    "options": [
+      "rain",
+      "snow",
+      "wind"
+    ],
+    "explanation": "\"مطر\" بالإنكليزي هي rain."
+  },
+  {
+    "q": "What is the English word for \"ثلج\"?",
+    "options": [
+      "snow",
+      "rain",
+      "fog"
+    ],
+    "explanation": "\"ثلج\" بالإنكليزي هي snow."
+  },
+  {
+    "q": "What is the English word for \"تفاحة\"?",
+    "options": [
+      "apple",
+      "orange",
+      "banana"
+    ],
+    "explanation": "\"تفاحة\" بالإنكليزي هي apple."
+  },
+  {
+    "q": "What is the English word for \"برتقالة\"?",
+    "options": [
+      "orange",
+      "lemon",
+      "apple"
+    ],
+    "explanation": "\"برتقالة\" بالإنكليزي هي orange."
+  },
+  {
+    "q": "What is the English word for \"خبز\"?",
+    "options": [
+      "bread",
+      "cheese",
+      "rice"
+    ],
+    "explanation": "\"خبز\" بالإنكليزي هي bread."
+  },
+  {
+    "q": "What is the English word for \"حليب\"?",
+    "options": [
+      "milk",
+      "water",
+      "juice"
+    ],
+    "explanation": "\"حليب\" بالإنكليزي هي milk."
+  },
+  {
+    "q": "What is the English word for \"شاي\"?",
+    "options": [
+      "tea",
+      "coffee",
+      "juice"
+    ],
+    "explanation": "\"شاي\" بالإنكليزي هي tea."
+  },
+  {
+    "q": "What is the English word for \"بيضة\"?",
+    "options": [
+      "egg",
+      "meat",
+      "fish"
+    ],
+    "explanation": "\"بيضة\" بالإنكليزي هي egg."
+  },
+  {
+    "q": "What is the English word for \"سمك\"?",
+    "options": [
+      "fish",
+      "chicken",
+      "meat"
+    ],
+    "explanation": "\"سمك\" بالإنكليزي هي fish."
+  },
+  {
+    "q": "What is the English word for \"أرز\"?",
+    "options": [
+      "rice",
+      "bread",
+      "sugar"
+    ],
+    "explanation": "\"أرز\" بالإنكليزي هي rice."
+  },
+  {
+    "q": "What is the English word for \"سكر\"?",
+    "options": [
+      "sugar",
+      "salt",
+      "rice"
+    ],
+    "explanation": "\"سكر\" بالإنكليزي هي sugar."
+  },
+  {
+    "q": "What is the English word for \"أم\"?",
+    "options": [
+      "mother",
+      "sister",
+      "aunt"
+    ],
+    "explanation": "\"أم\" بالإنكليزي هي mother."
+  },
+  {
+    "q": "What is the English word for \"أخ\"?",
+    "options": [
+      "brother",
+      "father",
+      "cousin"
+    ],
+    "explanation": "\"أخ\" بالإنكليزي هي brother."
+  },
+  {
+    "q": "What is the English word for \"أخت\"?",
+    "options": [
+      "sister",
+      "mother",
+      "daughter"
+    ],
+    "explanation": "\"أخت\" بالإنكليزي هي sister."
+  },
+  {
+    "q": "What is the English word for \"جدة\"?",
+    "options": [
+      "grandmother",
+      "grandfather",
+      "mother"
+    ],
+    "explanation": "\"جدة\" بالإنكليزي هي grandmother."
+  },
+  {
+    "q": "What is the English word for \"طبيب\"?",
+    "options": [
+      "doctor",
+      "teacher",
+      "driver"
+    ],
+    "explanation": "\"طبيب\" بالإنكليزي هي doctor."
+  },
+  {
+    "q": "What is the English word for \"معلم\"?",
+    "options": [
+      "teacher",
+      "doctor",
+      "farmer"
+    ],
+    "explanation": "\"معلم\" بالإنكليزي هي teacher."
+  },
+  {
+    "q": "What is the English word for \"ممرضة\"?",
+    "options": [
+      "nurse",
+      "doctor",
+      "cook"
+    ],
+    "explanation": "\"ممرضة\" بالإنكليزي هي nurse."
+  },
+  {
+    "q": "What is the English word for \"أزرق\"?",
+    "options": [
+      "blue",
+      "red",
+      "black"
+    ],
+    "explanation": "\"أزرق\" بالإنكليزي هي blue."
+  },
+  {
+    "q": "What is the English word for \"أصفر\"?",
+    "options": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "explanation": "\"أصفر\" بالإنكليزي هي yellow."
+  },
+  {
+    "q": "What is the plural of \"child\"?",
+    "options": [
+      "children",
+      "childs",
+      "childes"
+    ],
+    "explanation": "جمع child هو children. جمع شاذ."
+  },
+  {
+    "q": "What is the plural of \"man\"?",
+    "options": [
+      "men",
+      "mans",
+      "manes"
+    ],
+    "explanation": "جمع man هو men. جمع شاذ."
+  },
+  {
+    "q": "What is the plural of \"woman\"?",
+    "options": [
+      "women",
+      "womans",
+      "womens"
+    ],
+    "explanation": "جمع woman هو women. جمع شاذ."
+  },
+  {
+    "q": "What is the plural of \"foot\"?",
+    "options": [
+      "feet",
+      "foots",
+      "feets"
+    ],
+    "explanation": "جمع foot هو feet. جمع شاذ."
+  },
+  {
+    "q": "What is the plural of \"tooth\"?",
+    "options": [
+      "teeth",
+      "tooths",
+      "teeths"
+    ],
+    "explanation": "جمع tooth هو teeth. جمع شاذ."
+  },
+  {
+    "q": "What is the plural of \"mouse\"?",
+    "options": [
+      "mice",
+      "mouses",
+      "meese"
+    ],
+    "explanation": "جمع mouse هو mice. جمع شاذ."
+  },
+  {
+    "q": "What is the plural of \"box\"?",
+    "options": [
+      "boxes",
+      "boxs",
+      "boxies"
+    ],
+    "explanation": "جمع box هو boxes. الكلمة المنتهية بـ x بنضيف es."
+  },
+  {
+    "q": "What is the plural of \"bus\"?",
+    "options": [
+      "buses",
+      "buss",
+      "busies"
+    ],
+    "explanation": "جمع bus هو buses. الكلمة المنتهية بـ s بنضيف es."
+  },
+  {
+    "q": "What is the plural of \"baby\"?",
+    "options": [
+      "babies",
+      "babys",
+      "babyes"
+    ],
+    "explanation": "جمع baby هو babies. y بعد حرف ساكن بتصير ies."
+  },
+  {
+    "q": "What is the plural of \"city\"?",
+    "options": [
+      "cities",
+      "citys",
+      "cityes"
+    ],
+    "explanation": "جمع city هو cities. y بعد حرف ساكن بتصير ies."
+  },
+  {
+    "q": "What is the plural of \"country\"?",
+    "options": [
+      "countries",
+      "countrys",
+      "countryes"
+    ],
+    "explanation": "جمع country هو countries. y بعد حرف ساكن بتصير ies."
+  },
+  {
+    "q": "What is the plural of \"day\"?",
+    "options": [
+      "days",
+      "daies",
+      "dayes"
+    ],
+    "explanation": "جمع day هو days. y بعد حرف علة بنضيف s بس."
+  },
+  {
+    "q": "What is the plural of \"boy\"?",
+    "options": [
+      "boys",
+      "boies",
+      "boyes"
+    ],
+    "explanation": "جمع boy هو boys. y بعد حرف علة بنضيف s بس."
+  },
+  {
+    "q": "What is the plural of \"leaf\"?",
+    "options": [
+      "leaves",
+      "leafs",
+      "leafes"
+    ],
+    "explanation": "جمع leaf هو leaves. f بتصير ves."
+  },
+  {
+    "q": "What is the plural of \"knife\"?",
+    "options": [
+      "knives",
+      "knifes",
+      "knifees"
+    ],
+    "explanation": "جمع knife هو knives. fe بتصير ves."
+  },
+  {
+    "q": "What is the plural of \"wolf\"?",
+    "options": [
+      "wolves",
+      "wolfs",
+      "wolfes"
+    ],
+    "explanation": "جمع wolf هو wolves. f بتصير ves."
+  },
+  {
+    "q": "What is the plural of \"potato\"?",
+    "options": [
+      "potatoes",
+      "potatos",
+      "potatoies"
+    ],
+    "explanation": "جمع potato هو potatoes. بنضيف es."
+  },
+  {
+    "q": "What is the plural of \"tomato\"?",
+    "options": [
+      "tomatoes",
+      "tomatos",
+      "tomatoies"
+    ],
+    "explanation": "جمع tomato هو tomatoes. بنضيف es."
+  },
+  {
+    "q": "What is the plural of \"sheep\"?",
+    "options": [
+      "sheep",
+      "sheeps",
+      "sheepes"
+    ],
+    "explanation": "جمع sheep هو sheep. نفس الكلمة للمفرد والجمع."
+  },
+  {
+    "q": "What is the plural of \"photo\"?",
+    "options": [
+      "photos",
+      "photoes",
+      "photoies"
+    ],
+    "explanation": "جمع photo هو photos. بنضيف s بس."
+  },
+  {
+    "q": "What is the plural of \"class\"?",
+    "options": [
+      "classes",
+      "classs",
+      "classies"
+    ],
+    "explanation": "جمع class هو classes. المنتهية بـ s بنضيف es."
+  },
+  {
+    "q": "What is the past tense of \"go\"?",
+    "options": [
+      "went",
+      "goed",
+      "gone"
+    ],
+    "explanation": "الفعل go شاذ، وماضيه went."
+  },
+  {
+    "q": "What is the past tense of \"eat\"?",
+    "options": [
+      "ate",
+      "eated",
+      "eaten"
+    ],
+    "explanation": "الفعل eat شاذ، وماضيه ate."
+  },
+  {
+    "q": "What is the past tense of \"see\"?",
+    "options": [
+      "saw",
+      "seed",
+      "seen"
+    ],
+    "explanation": "الفعل see شاذ، وماضيه saw."
+  },
+  {
+    "q": "What is the past tense of \"take\"?",
+    "options": [
+      "took",
+      "taked",
+      "taken"
+    ],
+    "explanation": "الفعل take شاذ، وماضيه took."
+  },
+  {
+    "q": "What is the past tense of \"give\"?",
+    "options": [
+      "gave",
+      "gived",
+      "given"
+    ],
+    "explanation": "الفعل give شاذ، وماضيه gave."
+  },
+  {
+    "q": "What is the past tense of \"write\"?",
+    "options": [
+      "wrote",
+      "writed",
+      "written"
+    ],
+    "explanation": "الفعل write شاذ، وماضيه wrote."
+  },
+  {
+    "q": "What is the past tense of \"drink\"?",
+    "options": [
+      "drank",
+      "drinked",
+      "drunk"
+    ],
+    "explanation": "الفعل drink شاذ، وماضيه drank."
+  },
+  {
+    "q": "What is the past tense of \"run\"?",
+    "options": [
+      "ran",
+      "runned",
+      "runs"
+    ],
+    "explanation": "الفعل run شاذ، وماضيه ran."
+  },
+  {
+    "q": "What is the past tense of \"buy\"?",
+    "options": [
+      "bought",
+      "buyed",
+      "boughted"
+    ],
+    "explanation": "الفعل buy شاذ، وماضيه bought."
+  },
+  {
+    "q": "What is the past tense of \"bring\"?",
+    "options": [
+      "brought",
+      "bringed",
+      "broughted"
+    ],
+    "explanation": "الفعل bring شاذ، وماضيه brought."
+  },
+  {
+    "q": "What is the past tense of \"think\"?",
+    "options": [
+      "thought",
+      "thinked",
+      "thoughted"
+    ],
+    "explanation": "الفعل think شاذ، وماضيه thought."
+  },
+  {
+    "q": "What is the past tense of \"teach\"?",
+    "options": [
+      "taught",
+      "teached",
+      "teaught"
+    ],
+    "explanation": "الفعل teach شاذ، وماضيه taught."
+  },
+  {
+    "q": "What is the past tense of \"catch\"?",
+    "options": [
+      "caught",
+      "catched",
+      "cought"
+    ],
+    "explanation": "الفعل catch شاذ، وماضيه caught."
+  },
+  {
+    "q": "What is the past tense of \"come\"?",
+    "options": [
+      "came",
+      "comed",
+      "camed"
+    ],
+    "explanation": "الفعل come شاذ، وماضيه came."
+  },
+  {
+    "q": "What is the past tense of \"make\"?",
+    "options": [
+      "made",
+      "maked",
+      "maden"
+    ],
+    "explanation": "الفعل make شاذ، وماضيه made."
+  },
+  {
+    "q": "What is the past tense of \"have\"?",
+    "options": [
+      "had",
+      "haved",
+      "has"
+    ],
+    "explanation": "الفعل have شاذ، وماضيه had."
+  },
+  {
+    "q": "What is the past tense of \"do\"?",
+    "options": [
+      "did",
+      "doed",
+      "done"
+    ],
+    "explanation": "الفعل do شاذ، وماضيه did."
+  },
+  {
+    "q": "What is the past tense of \"say\"?",
+    "options": [
+      "said",
+      "sayed",
+      "sayd"
+    ],
+    "explanation": "الفعل say شاذ، وماضيه said."
+  },
+  {
+    "q": "What is the past tense of \"tell\"?",
+    "options": [
+      "told",
+      "telled",
+      "tolded"
+    ],
+    "explanation": "الفعل tell شاذ، وماضيه told."
+  },
+  {
+    "q": "What is the past tense of \"know\"?",
+    "options": [
+      "knew",
+      "knowed",
+      "known"
+    ],
+    "explanation": "الفعل know شاذ، وماضيه knew."
+  },
+  {
+    "q": "What is the past tense of \"speak\"?",
+    "options": [
+      "spoke",
+      "speaked",
+      "spoken"
+    ],
+    "explanation": "الفعل speak شاذ، وماضيه spoke."
+  },
+  {
+    "q": "What is the past tense of \"sit\"?",
+    "options": [
+      "sat",
+      "sitted",
+      "sitten"
+    ],
+    "explanation": "الفعل sit شاذ، وماضيه sat."
+  },
+  {
+    "q": "What is the past tense of \"find\"?",
+    "options": [
+      "found",
+      "finded",
+      "fount"
+    ],
+    "explanation": "الفعل find شاذ، وماضيه found."
+  },
+  {
+    "q": "What is the past tense of \"feel\"?",
+    "options": [
+      "felt",
+      "feeled",
+      "feeld"
+    ],
+    "explanation": "الفعل feel شاذ، وماضيه felt."
+  },
+  {
+    "q": "What is the past tense of \"leave\"?",
+    "options": [
+      "left",
+      "leaved",
+      "leaft"
+    ],
+    "explanation": "الفعل leave شاذ، وماضيه left."
+  },
+  {
+    "q": "What is the past tense of \"meet\"?",
+    "options": [
+      "met",
+      "meeted",
+      "meat"
+    ],
+    "explanation": "الفعل meet شاذ، وماضيه met."
+  },
+  {
+    "q": "What is the past tense of \"pay\"?",
+    "options": [
+      "paid",
+      "payed",
+      "payd"
+    ],
+    "explanation": "الفعل pay شاذ، وماضيه paid."
+  },
+  {
+    "q": "What is the past tense of \"sell\"?",
+    "options": [
+      "sold",
+      "selled",
+      "solded"
+    ],
+    "explanation": "الفعل sell شاذ، وماضيه sold."
+  },
+  {
+    "q": "What is the past tense of \"win\"?",
+    "options": [
+      "won",
+      "winned",
+      "wan"
+    ],
+    "explanation": "الفعل win شاذ، وماضيه won."
+  },
+  {
+    "q": "What is the opposite of \"big\"?",
+    "options": [
+      "small",
+      "long",
+      "fast"
+    ],
+    "explanation": "عكس \"big\" هو \"small\"."
+  },
+  {
+    "q": "What is the opposite of \"long\"?",
+    "options": [
+      "short",
+      "heavy",
+      "wide"
+    ],
+    "explanation": "عكس \"long\" هو \"short\"."
+  },
+  {
+    "q": "What is the opposite of \"tall\"?",
+    "options": [
+      "short",
+      "thin",
+      "old"
+    ],
+    "explanation": "عكس \"tall\" هو \"short\"."
+  },
+  {
+    "q": "What is the opposite of \"fast\"?",
+    "options": [
+      "slow",
+      "late",
+      "weak"
+    ],
+    "explanation": "عكس \"fast\" هو \"slow\"."
+  },
+  {
+    "q": "What is the opposite of \"young\"?",
+    "options": [
+      "old",
+      "small",
+      "weak"
+    ],
+    "explanation": "عكس \"young\" هو \"old\"."
+  },
+  {
+    "q": "What is the opposite of \"new\"?",
+    "options": [
+      "old",
+      "slow",
+      "weak"
+    ],
+    "explanation": "عكس \"new\" هو \"old\"."
+  },
+  {
+    "q": "What is the opposite of \"happy\"?",
+    "options": [
+      "sad",
+      "kind",
+      "late"
+    ],
+    "explanation": "عكس \"happy\" هو \"sad\"."
+  },
+  {
+    "q": "What is the opposite of \"easy\"?",
+    "options": [
+      "difficult",
+      "cheap",
+      "quiet"
+    ],
+    "explanation": "عكس \"easy\" هو \"difficult\"."
+  },
+  {
+    "q": "What is the opposite of \"cheap\"?",
+    "options": [
+      "expensive",
+      "empty",
+      "easy"
+    ],
+    "explanation": "عكس \"cheap\" هو \"expensive\"."
+  },
+  {
+    "q": "What is the opposite of \"clean\"?",
+    "options": [
+      "dirty",
+      "quiet",
+      "empty"
+    ],
+    "explanation": "عكس \"clean\" هو \"dirty\"."
+  },
+  {
+    "q": "What is the opposite of \"full\"?",
+    "options": [
+      "empty",
+      "late",
+      "weak"
+    ],
+    "explanation": "عكس \"full\" هو \"empty\"."
+  },
+  {
+    "q": "What is the opposite of \"heavy\"?",
+    "options": [
+      "light",
+      "short",
+      "cold"
+    ],
+    "explanation": "عكس \"heavy\" هو \"light\"."
+  },
+  {
+    "q": "What is the opposite of \"strong\"?",
+    "options": [
+      "weak",
+      "slow",
+      "poor"
+    ],
+    "explanation": "عكس \"strong\" هو \"weak\"."
+  },
+  {
+    "q": "What is the opposite of \"rich\"?",
+    "options": [
+      "poor",
+      "weak",
+      "sad"
+    ],
+    "explanation": "عكس \"rich\" هو \"poor\"."
+  },
+  {
+    "q": "What is the opposite of \"open\"?",
+    "options": [
+      "closed",
+      "broken",
+      "empty"
+    ],
+    "explanation": "عكس \"open\" هو \"closed\"."
+  },
+  {
+    "q": "What is the opposite of \"early\"?",
+    "options": [
+      "late",
+      "slow",
+      "short"
+    ],
+    "explanation": "عكس \"early\" هو \"late\"."
+  },
+  {
+    "q": "What is the opposite of \"up\"?",
+    "options": [
+      "down",
+      "left",
+      "behind"
+    ],
+    "explanation": "عكس \"up\" هو \"down\"."
+  },
+  {
+    "q": "What is the opposite of \"push\"?",
+    "options": [
+      "pull",
+      "pick",
+      "pass"
+    ],
+    "explanation": "عكس \"push\" هو \"pull\"."
+  },
+  {
+    "q": "What is the opposite of \"buy\"?",
+    "options": [
+      "sell",
+      "pay",
+      "cost"
+    ],
+    "explanation": "عكس \"buy\" هو \"sell\"."
+  },
+  {
+    "q": "What is the opposite of \"love\"?",
+    "options": [
+      "hate",
+      "like",
+      "want"
+    ],
+    "explanation": "عكس \"love\" هو \"hate\"."
+  },
+  {
+    "q": "What is the opposite of \"hot\"?",
+    "options": [
+      "cold",
+      "warm",
+      "wet"
+    ],
+    "explanation": "عكس \"hot\" هو \"cold\"."
+  },
+  {
+    "q": "What is the opposite of \"wet\"?",
+    "options": [
+      "dry",
+      "cold",
+      "hot"
+    ],
+    "explanation": "عكس \"wet\" هو \"dry\"."
+  },
+  {
+    "q": "What is the opposite of \"soft\"?",
+    "options": [
+      "hard",
+      "slow",
+      "dry"
+    ],
+    "explanation": "عكس \"soft\" هو \"hard\"."
+  },
+  {
+    "q": "What is the opposite of \"inside\"?",
+    "options": [
+      "outside",
+      "beside",
+      "above"
+    ],
+    "explanation": "عكس \"inside\" هو \"outside\"."
+  },
+  {
+    "q": "Which word means the same as \"big\"?",
+    "options": [
+      "large",
+      "tiny",
+      "short"
+    ],
+    "explanation": "\"big\" و\"large\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"small\"?",
+    "options": [
+      "little",
+      "huge",
+      "tall"
+    ],
+    "explanation": "\"small\" و\"little\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"smart\"?",
+    "options": [
+      "clever",
+      "lazy",
+      "slow"
+    ],
+    "explanation": "\"smart\" و\"clever\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"fast\"?",
+    "options": [
+      "quick",
+      "late",
+      "weak"
+    ],
+    "explanation": "\"fast\" و\"quick\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"glad\"?",
+    "options": [
+      "happy",
+      "angry",
+      "tired"
+    ],
+    "explanation": "\"glad\" و\"happy\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"begin\"?",
+    "options": [
+      "start",
+      "stop",
+      "end"
+    ],
+    "explanation": "\"begin\" و\"start\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"buy\"?",
+    "options": [
+      "purchase",
+      "sell",
+      "lose"
+    ],
+    "explanation": "\"buy\" و\"purchase\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"choose\"?",
+    "options": [
+      "select",
+      "forget",
+      "leave"
+    ],
+    "explanation": "\"choose\" و\"select\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"end\"?",
+    "options": [
+      "finish",
+      "begin",
+      "open"
+    ],
+    "explanation": "\"end\" و\"finish\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"pretty\"?",
+    "options": [
+      "beautiful",
+      "ugly",
+      "plain"
+    ],
+    "explanation": "\"pretty\" و\"beautiful\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"sick\"?",
+    "options": [
+      "ill",
+      "well",
+      "strong"
+    ],
+    "explanation": "\"sick\" و\"ill\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"shut\"?",
+    "options": [
+      "close",
+      "open",
+      "start"
+    ],
+    "explanation": "\"shut\" و\"close\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"quiet\"?",
+    "options": [
+      "silent",
+      "loud",
+      "busy"
+    ],
+    "explanation": "\"quiet\" و\"silent\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"talk\"?",
+    "options": [
+      "speak",
+      "listen",
+      "write"
+    ],
+    "explanation": "\"talk\" و\"speak\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "Which word means the same as \"huge\"?",
+    "options": [
+      "enormous",
+      "tiny",
+      "short"
+    ],
+    "explanation": "\"huge\" و\"enormous\" بنفس المعنى تقريباً."
+  },
+  {
+    "q": "We need ___ apple.",
+    "options": [
+      "an",
+      "a",
+      "many"
+    ],
+    "explanation": "كلمة apple بتبدأ بصوت حرف علة فبنستعمل an."
+  },
+  {
+    "q": "We need ___ orange.",
+    "options": [
+      "an",
+      "a",
+      "many"
+    ],
+    "explanation": "كلمة orange بتبدأ بصوت حرف علة فبنستعمل an."
+  },
+  {
+    "q": "We need ___ egg.",
+    "options": [
+      "an",
+      "a",
+      "many"
+    ],
+    "explanation": "كلمة egg بتبدأ بصوت حرف علة فبنستعمل an."
+  },
+  {
+    "q": "We need ___ umbrella.",
+    "options": [
+      "an",
+      "a",
+      "many"
+    ],
+    "explanation": "كلمة umbrella بتبدأ بصوت حرف علة فبنستعمل an."
+  },
+  {
+    "q": "We need ___ elephant.",
+    "options": [
+      "an",
+      "a",
+      "many"
+    ],
+    "explanation": "كلمة elephant بتبدأ بصوت حرف علة فبنستعمل an."
+  },
+  {
+    "q": "We need ___ hour.",
+    "options": [
+      "an",
+      "a",
+      "many"
+    ],
+    "explanation": "حرف h ما بينلفظ فبنستعمل an."
+  },
+  {
+    "q": "We need ___ engineer.",
+    "options": [
+      "an",
+      "a",
+      "many"
+    ],
+    "explanation": "كلمة engineer بتبدأ بصوت حرف علة فبنستعمل an."
+  },
+  {
+    "q": "We need ___ island.",
+    "options": [
+      "an",
+      "a",
+      "many"
+    ],
+    "explanation": "كلمة island بتبدأ بصوت حرف علة فبنستعمل an."
+  },
+  {
+    "q": "We need ___ university.",
+    "options": [
+      "a",
+      "an",
+      "many"
+    ],
+    "explanation": "بتبدأ بصوت y فبنستعمل a."
+  },
+  {
+    "q": "We need ___ uniform.",
+    "options": [
+      "a",
+      "an",
+      "many"
+    ],
+    "explanation": "بتبدأ بصوت y فبنستعمل a."
+  },
+  {
+    "q": "We need ___ banana.",
+    "options": [
+      "a",
+      "an",
+      "many"
+    ],
+    "explanation": "كلمة banana بتبدأ بصوت حرف ساكن فبنستعمل a."
+  },
+  {
+    "q": "We need ___ car.",
+    "options": [
+      "a",
+      "an",
+      "many"
+    ],
+    "explanation": "كلمة car بتبدأ بصوت حرف ساكن فبنستعمل a."
+  },
+  {
+    "q": "We need ___ house.",
+    "options": [
+      "a",
+      "an",
+      "many"
+    ],
+    "explanation": "كلمة house بتبدأ بصوت حرف ساكن فبنستعمل a."
+  },
+  {
+    "q": "We need ___ book.",
+    "options": [
+      "a",
+      "an",
+      "many"
+    ],
+    "explanation": "كلمة book بتبدأ بصوت حرف ساكن فبنستعمل a."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "beautiful",
+      "beutiful",
+      "beautifull"
+    ],
+    "explanation": "الإملاء الصحيح: beautiful."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "friend",
+      "freind",
+      "frend"
+    ],
+    "explanation": "الإملاء الصحيح: friend."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "because",
+      "becuase",
+      "becouse"
+    ],
+    "explanation": "الإملاء الصحيح: because."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "different",
+      "diffrent",
+      "differant"
+    ],
+    "explanation": "الإملاء الصحيح: different."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "tomorrow",
+      "tommorow",
+      "tomorow"
+    ],
+    "explanation": "الإملاء الصحيح: tomorrow."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "necessary",
+      "neccessary",
+      "necesary"
+    ],
+    "explanation": "الإملاء الصحيح: necessary."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "believe",
+      "beleive",
+      "belive"
+    ],
+    "explanation": "الإملاء الصحيح: believe."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "receive",
+      "recieve",
+      "receeve"
+    ],
+    "explanation": "الإملاء الصحيح: receive."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "Wednesday",
+      "Wensday",
+      "Wednsday"
+    ],
+    "explanation": "الإملاء الصحيح: Wednesday."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "February",
+      "Febuary",
+      "Februery"
+    ],
+    "explanation": "الإملاء الصحيح: February."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "library",
+      "libary",
+      "liberry"
+    ],
+    "explanation": "الإملاء الصحيح: library."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "interesting",
+      "intresting",
+      "interesing"
+    ],
+    "explanation": "الإملاء الصحيح: interesting."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "language",
+      "langauge",
+      "languege"
+    ],
+    "explanation": "الإملاء الصحيح: language."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "sentence",
+      "sentance",
+      "sentense"
+    ],
+    "explanation": "الإملاء الصحيح: sentence."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "weather",
+      "wether",
+      "wheather"
+    ],
+    "explanation": "الإملاء الصحيح: weather."
+  },
+  {
+    "q": "Which spelling is correct?",
+    "options": [
+      "restaurant",
+      "restarant",
+      "resturant"
+    ],
+    "explanation": "الإملاء الصحيح: restaurant."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "carrot",
+      "apple",
+      "banana"
+    ],
+    "explanation": "carrot مختلفة، لأن الباقي فواكه."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "dog",
+      "red",
+      "blue"
+    ],
+    "explanation": "dog مختلفة، لأن الباقي ألوان."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "Monday",
+      "table",
+      "chair"
+    ],
+    "explanation": "Monday مختلفة، لأن الباقي أثاث."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "table",
+      "cat",
+      "dog"
+    ],
+    "explanation": "table مختلفة، لأن الباقي حيوانات."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "happy",
+      "red",
+      "blue"
+    ],
+    "explanation": "happy مختلفة، لأن الباقي ألوان."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "bread",
+      "milk",
+      "juice"
+    ],
+    "explanation": "bread مختلفة، لأن الباقي مشروبات."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "Sunday",
+      "January",
+      "March"
+    ],
+    "explanation": "Sunday مختلفة، لأن الباقي شهور."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "blue",
+      "one",
+      "two"
+    ],
+    "explanation": "blue مختلفة، لأن الباقي أرقام."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "chair",
+      "hand",
+      "foot"
+    ],
+    "explanation": "chair مختلفة، لأن الباقي أعضاء جسم."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "Friday",
+      "summer",
+      "winter"
+    ],
+    "explanation": "Friday مختلفة، لأن الباقي فصول."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "Cairo",
+      "Syria",
+      "Turkey"
+    ],
+    "explanation": "Cairo مختلفة، لأن الباقي دول."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "spoon",
+      "shirt",
+      "trousers"
+    ],
+    "explanation": "spoon مختلفة، لأن الباقي ملابس."
+  },
+  {
+    "q": "Which word is different from the others?",
+    "options": [
+      "tree",
+      "bird",
+      "fish"
+    ],
+    "explanation": "tree مختلفة، لأن الباقي حيوانات."
+  },
+  {
+    "q": "I ___ a student.",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "explanation": "مع I بنستعمل am."
+  },
+  {
+    "q": "He ___ my brother.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "explanation": "مع he بنستعمل is."
+  },
+  {
+    "q": "They ___ at home.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "explanation": "مع they بنستعمل are."
+  },
+  {
+    "q": "We ___ friends.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "explanation": "مع we بنستعمل are."
+  },
+  {
+    "q": "My sister ___ ten years old.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "explanation": "sister مفرد فبنستعمل is."
+  },
+  {
+    "q": "The books ___ on the desk.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "explanation": "books جمع فبنستعمل are."
+  },
+  {
+    "q": "It ___ a beautiful day.",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "explanation": "مع it بنستعمل is."
+  },
+  {
+    "q": "___ she a teacher?",
+    "options": [
+      "Is",
+      "Are",
+      "Am"
+    ],
+    "explanation": "مع she بنستعمل Is."
+  },
+  {
+    "q": "___ they from Syria?",
+    "options": [
+      "Are",
+      "Is",
+      "Am"
+    ],
+    "explanation": "مع they بنستعمل Are."
+  },
+  {
+    "q": "My parents ___ at work.",
+    "options": [
+      "are",
+      "is",
+      "am"
+    ],
+    "explanation": "parents جمع فبنستعمل are."
+  },
+  {
+    "q": "She ___ to school every day.",
+    "options": [
+      "goes",
+      "go",
+      "going"
+    ],
+    "explanation": "مع she بنضيف s أو es على الفعل."
+  },
+  {
+    "q": "They ___ football on Fridays.",
+    "options": [
+      "play",
+      "plays",
+      "playing"
+    ],
+    "explanation": "مع they بنستعمل الفعل الأساسي."
+  },
+  {
+    "q": "My mother ___ breakfast at 7.",
+    "options": [
+      "makes",
+      "make",
+      "making"
+    ],
+    "explanation": "مع الفاعل المفرد بنضيف s."
+  },
+  {
+    "q": "I ___ milk every morning.",
+    "options": [
+      "drink",
+      "drinks",
+      "drinking"
+    ],
+    "explanation": "مع I بنستعمل الفعل الأساسي."
+  },
+  {
+    "q": "The sun ___ in the west.",
+    "options": [
+      "sets",
+      "set",
+      "setting"
+    ],
+    "explanation": "الشمس مفرد فبنضيف s."
+  },
+  {
+    "q": "Water ___ at 100 degrees.",
+    "options": [
+      "boils",
+      "boil",
+      "boiling"
+    ],
+    "explanation": "water مفرد فبنضيف s."
+  },
+  {
+    "q": "He doesn't ___ coffee.",
+    "options": [
+      "like",
+      "likes",
+      "liking"
+    ],
+    "explanation": "بعد doesn't بنستعمل الفعل الأساسي."
+  },
+  {
+    "q": "___ she live in Damascus?",
+    "options": [
+      "Does",
+      "Do",
+      "Is"
+    ],
+    "explanation": "مع she بنستعمل Does."
+  },
+  {
+    "q": "They don't ___ TV at night.",
+    "options": [
+      "watch",
+      "watches",
+      "watching"
+    ],
+    "explanation": "بعد don't بنستعمل الفعل الأساسي."
+  },
+  {
+    "q": "She ___ TV every evening.",
+    "options": [
+      "watches",
+      "watchs",
+      "watching"
+    ],
+    "explanation": "المنتهي بـ ch بنضيف es."
+  },
+  {
+    "q": "___ you speak English?",
+    "options": [
+      "Do",
+      "Does",
+      "Are"
+    ],
+    "explanation": "مع you بنستعمل Do."
+  },
+  {
+    "q": "My cat ___ fish.",
+    "options": [
+      "likes",
+      "like",
+      "liking"
+    ],
+    "explanation": "cat مفرد فبنضيف s."
+  },
+  {
+    "q": "He never ___ late.",
+    "options": [
+      "comes",
+      "come",
+      "coming"
+    ],
+    "explanation": "مع he بنضيف s حتى مع never."
+  },
+  {
+    "q": "I ___ a book now.",
+    "options": [
+      "am reading",
+      "read",
+      "reads"
+    ],
+    "explanation": "now بتدل على المضارع المستمر."
+  },
+  {
+    "q": "She ___ a letter at the moment.",
+    "options": [
+      "is writing",
+      "writes",
+      "write"
+    ],
+    "explanation": "at the moment بتدل على المضارع المستمر."
+  },
+  {
+    "q": "What ___ you doing?",
+    "options": [
+      "are",
+      "do",
+      "is"
+    ],
+    "explanation": "مع you بنستعمل are بالمضارع المستمر."
+  },
+  {
+    "q": "We ___ dinner at the moment.",
+    "options": [
+      "are having",
+      "have",
+      "has"
+    ],
+    "explanation": "at the moment بتدل على المضارع المستمر."
+  },
+  {
+    "q": "It ___ now. Take an umbrella.",
+    "options": [
+      "is raining",
+      "rains",
+      "rain"
+    ],
+    "explanation": "now بتدل على المضارع المستمر."
+  },
+  {
+    "q": "Look! The bus ___.",
+    "options": [
+      "is coming",
+      "comes",
+      "come"
+    ],
+    "explanation": "Look! بتدل على شي عم يصير هلأ."
+  },
+  {
+    "q": "Why ___ she crying?",
+    "options": [
+      "is",
+      "are",
+      "do"
+    ],
+    "explanation": "مع she بنستعمل is."
+  },
+  {
+    "q": "They ___ football yesterday.",
+    "options": [
+      "played",
+      "play",
+      "plays"
+    ],
+    "explanation": "yesterday بتدل على الماضي."
+  },
+  {
+    "q": "I ___ to the market last week.",
+    "options": [
+      "went",
+      "go",
+      "goes"
+    ],
+    "explanation": "go ماضيها went."
+  },
+  {
+    "q": "She ___ a cake yesterday.",
+    "options": [
+      "made",
+      "make",
+      "makes"
+    ],
+    "explanation": "make ماضيها made."
+  },
+  {
+    "q": "We ___ a movie last night.",
+    "options": [
+      "watched",
+      "watch",
+      "watches"
+    ],
+    "explanation": "last night بتدل على الماضي."
+  },
+  {
+    "q": "___ you see Ali yesterday?",
+    "options": [
+      "Did",
+      "Do",
+      "Are"
+    ],
+    "explanation": "أسئلة الماضي بتبدأ بـ Did."
+  },
+  {
+    "q": "I didn't ___ the news.",
+    "options": [
+      "watch",
+      "watched",
+      "watching"
+    ],
+    "explanation": "بعد didn't بنستعمل الفعل الأساسي."
+  },
+  {
+    "q": "She ___ home at 5 o'clock yesterday.",
+    "options": [
+      "came",
+      "come",
+      "comes"
+    ],
+    "explanation": "come ماضيها came."
+  },
+  {
+    "q": "The film ___ at 8 pm last night.",
+    "options": [
+      "started",
+      "start",
+      "starts"
+    ],
+    "explanation": "last night بتدل على الماضي."
+  },
+  {
+    "q": "We ___ a lot of fun last summer.",
+    "options": [
+      "had",
+      "have",
+      "has"
+    ],
+    "explanation": "have ماضيها had."
+  },
+  {
+    "q": "Where ___ you go last Friday?",
+    "options": [
+      "did",
+      "do",
+      "are"
+    ],
+    "explanation": "أسئلة الماضي بنستعمل did."
+  },
+  {
+    "q": "My father ___ me a gift.",
+    "options": [
+      "gave",
+      "give",
+      "gives"
+    ],
+    "explanation": "give ماضيها gave."
+  },
+  {
+    "q": "I ___ my keys yesterday.",
+    "options": [
+      "lost",
+      "lose",
+      "loses"
+    ],
+    "explanation": "lose ماضيها lost."
+  },
+  {
+    "q": "I ___ at home last night.",
+    "options": [
+      "was",
+      "were",
+      "am"
+    ],
+    "explanation": "مع I بنستعمل was بالماضي."
+  },
+  {
+    "q": "They ___ happy yesterday.",
+    "options": [
+      "were",
+      "was",
+      "are"
+    ],
+    "explanation": "مع they بنستعمل were بالماضي."
+  },
+  {
+    "q": "I ___ call you tomorrow.",
+    "options": [
+      "will",
+      "did",
+      "am"
+    ],
+    "explanation": "tomorrow + will + الفعل الأساسي."
+  },
+  {
+    "q": "She ___ travel next week.",
+    "options": [
+      "will",
+      "did",
+      "has"
+    ],
+    "explanation": "next week بتدل على المستقبل."
+  },
+  {
+    "q": "We are ___ to visit Aleppo next month.",
+    "options": [
+      "going",
+      "go",
+      "went"
+    ],
+    "explanation": "التعبير: be going to."
+  },
+  {
+    "q": "He is going to ___ a doctor.",
+    "options": [
+      "be",
+      "is",
+      "been"
+    ],
+    "explanation": "بعد going to بنستعمل الفعل الأساسي."
+  },
+  {
+    "q": "Look at the clouds! It's ___ to rain.",
+    "options": [
+      "going",
+      "will",
+      "go"
+    ],
+    "explanation": "التعبير: be going to."
+  },
+  {
+    "q": "___ you help me tomorrow?",
+    "options": [
+      "Will",
+      "Did",
+      "Are"
+    ],
+    "explanation": "السؤال عن المستقبل بـ Will."
+  },
+  {
+    "q": "I think it ___ be sunny tomorrow.",
+    "options": [
+      "will",
+      "did",
+      "is"
+    ],
+    "explanation": "will + الفعل الأساسي."
+  },
+  {
+    "q": "I'm interested ___ music.",
+    "options": [
+      "in",
+      "on",
+      "at"
+    ],
+    "explanation": "التعبير: interested in."
+  },
+  {
+    "q": "He is good ___ math.",
+    "options": [
+      "at",
+      "in",
+      "on"
+    ],
+    "explanation": "التعبير: good at."
+  },
+  {
+    "q": "We live ___ Syria.",
+    "options": [
+      "in",
+      "on",
+      "at"
+    ],
+    "explanation": "مع البلدان بنستعمل in."
+  },
+  {
+    "q": "The keys are ___ my pocket.",
+    "options": [
+      "in",
+      "on",
+      "at"
+    ],
+    "explanation": "بنستعمل in للشي اللي جوا مكان."
+  },
+  {
+    "q": "I wake up ___ 7 o'clock.",
+    "options": [
+      "at",
+      "in",
+      "on"
+    ],
+    "explanation": "مع الساعة بنستعمل at."
+  },
+  {
+    "q": "My birthday is ___ May.",
+    "options": [
+      "in",
+      "on",
+      "at"
+    ],
+    "explanation": "مع الشهور بنستعمل in."
+  },
+  {
+    "q": "We have class ___ Monday.",
+    "options": [
+      "on",
+      "in",
+      "at"
+    ],
+    "explanation": "مع أيام الأسبوع بنستعمل on."
+  },
+  {
+    "q": "She was born ___ 2005.",
+    "options": [
+      "in",
+      "on",
+      "at"
+    ],
+    "explanation": "مع السنوات بنستعمل in."
+  },
+  {
+    "q": "The bank is ___ the school and the market.",
+    "options": [
+      "between",
+      "among",
+      "under"
+    ],
+    "explanation": "between لما يكون في شيئين."
+  },
+  {
+    "q": "I go to school ___ bus.",
+    "options": [
+      "by",
+      "in",
+      "with"
+    ],
+    "explanation": "التعبير: by bus."
+  },
+  {
+    "q": "He is afraid ___ dogs.",
+    "options": [
+      "of",
+      "from",
+      "at"
+    ],
+    "explanation": "التعبير: afraid of."
+  },
+  {
+    "q": "Thank you ___ your help.",
+    "options": [
+      "for",
+      "to",
+      "of"
+    ],
+    "explanation": "التعبير: thank you for."
+  },
+  {
+    "q": "She is listening ___ music.",
+    "options": [
+      "to",
+      "at",
+      "for"
+    ],
+    "explanation": "التعبير: listen to."
+  },
+  {
+    "q": "Look ___ the picture!",
+    "options": [
+      "at",
+      "to",
+      "in"
+    ],
+    "explanation": "التعبير: look at."
+  },
+  {
+    "q": "The plane is flying ___ the city.",
+    "options": [
+      "above",
+      "between",
+      "among"
+    ],
+    "explanation": "above يعني فوق."
+  },
+  {
+    "q": "She put the milk ___ the fridge.",
+    "options": [
+      "in",
+      "at",
+      "of"
+    ],
+    "explanation": "بنستعمل in للشي اللي جوا مكان."
+  },
+  {
+    "q": "I go to school ___ foot.",
+    "options": [
+      "on",
+      "by",
+      "in"
+    ],
+    "explanation": "التعبير: on foot."
+  },
+  {
+    "q": "He is sitting ___ me.",
+    "options": [
+      "beside",
+      "between",
+      "among"
+    ],
+    "explanation": "beside يعني جنبي."
+  },
+  {
+    "q": "We eat dinner ___ night.",
+    "options": [
+      "at",
+      "in",
+      "on"
+    ],
+    "explanation": "التعبير: at night."
+  },
+  {
+    "q": "My house is next ___ the school.",
+    "options": [
+      "to",
+      "at",
+      "in"
+    ],
+    "explanation": "التعبير: next to."
+  },
+  {
+    "q": "This is ___ book.",
+    "options": [
+      "my",
+      "me",
+      "I"
+    ],
+    "explanation": "قبل الاسم بنستعمل صفة الملكية my."
+  },
+  {
+    "q": "___ name is Sara.",
+    "options": [
+      "Her",
+      "She",
+      "Hers"
+    ],
+    "explanation": "قبل الاسم بنستعمل her."
+  },
+  {
+    "q": "They have a car. It is ___ car.",
+    "options": [
+      "their",
+      "they",
+      "them"
+    ],
+    "explanation": "قبل الاسم بنستعمل their."
+  },
+  {
+    "q": "Can you help ___?",
+    "options": [
+      "me",
+      "my",
+      "I"
+    ],
+    "explanation": "بعد الفعل بنستعمل me."
+  },
+  {
+    "q": "I like ___. She is kind.",
+    "options": [
+      "her",
+      "she",
+      "hers"
+    ],
+    "explanation": "بعد الفعل بنستعمل her."
+  },
+  {
+    "q": "The pen is ___. It belongs to me.",
+    "options": [
+      "mine",
+      "my",
+      "me"
+    ],
+    "explanation": "mine بتغني عن ذكر الاسم."
+  },
+  {
+    "q": "Ali and I are friends. ___ are in the same class.",
+    "options": [
+      "We",
+      "Us",
+      "Our"
+    ],
+    "explanation": "فاعل الجملة هو we."
+  },
+  {
+    "q": "Look at that man. ___ is my uncle.",
+    "options": [
+      "He",
+      "Him",
+      "His"
+    ],
+    "explanation": "فاعل الجملة هو he."
+  },
+  {
+    "q": "The dog wagged ___ tail.",
+    "options": [
+      "its",
+      "it's",
+      "it"
+    ],
+    "explanation": "its صفة ملكية للحيوان."
+  },
+  {
+    "q": "___ are my parents.",
+    "options": [
+      "These",
+      "This",
+      "That"
+    ],
+    "explanation": "parents جمع فبنستعمل These."
+  },
+  {
+    "q": "___ I open the window?",
+    "options": [
+      "Can",
+      "Do",
+      "Am"
+    ],
+    "explanation": "بنطلب الإذن بـ Can."
+  },
+  {
+    "q": "He ___ swim. He is afraid of water.",
+    "options": [
+      "can't",
+      "can",
+      "must"
+    ],
+    "explanation": "can't يعني ما بيقدر."
+  },
+  {
+    "q": "You ___ smoke here. It's forbidden.",
+    "options": [
+      "mustn't",
+      "must",
+      "can"
+    ],
+    "explanation": "mustn't يعني ممنوع."
+  },
+  {
+    "q": "I ___ help you. What do you need?",
+    "options": [
+      "can",
+      "am",
+      "does"
+    ],
+    "explanation": "can بتدل على القدرة."
+  },
+  {
+    "q": "You look tired. You ___ rest.",
+    "options": [
+      "should",
+      "are",
+      "did"
+    ],
+    "explanation": "should للنصيحة."
+  },
+  {
+    "q": "Birds ___ fly.",
+    "options": [
+      "can",
+      "is",
+      "are"
+    ],
+    "explanation": "بعد can بنستعمل الفعل الأساسي."
+  },
+  {
+    "q": "He ___ work on Sundays. It's his day off.",
+    "options": [
+      "doesn't have to",
+      "don't have to",
+      "haven't to"
+    ],
+    "explanation": "مع he بنستعمل doesn't have to."
+  },
+  {
+    "q": "How ___ apples do you have?",
+    "options": [
+      "many",
+      "much",
+      "more"
+    ],
+    "explanation": "apples معدود فبنستعمل many."
+  },
+  {
+    "q": "How ___ water do you drink?",
+    "options": [
+      "much",
+      "many",
+      "few"
+    ],
+    "explanation": "water غير معدود فبنستعمل much."
+  },
+  {
+    "q": "There isn't ___ milk.",
+    "options": [
+      "any",
+      "a",
+      "many"
+    ],
+    "explanation": "بالنفي بنستعمل any."
+  },
+  {
+    "q": "I have ___ friends in Aleppo.",
+    "options": [
+      "a few",
+      "a little",
+      "much"
+    ],
+    "explanation": "friends معدود فبنستعمل a few."
+  },
+  {
+    "q": "We have ___ time. Hurry up!",
+    "options": [
+      "little",
+      "few",
+      "many"
+    ],
+    "explanation": "time غير معدود وlittle يعني قليل."
+  },
+  {
+    "q": "He drinks ___ coffee every day.",
+    "options": [
+      "a lot of",
+      "many",
+      "few"
+    ],
+    "explanation": "a lot of بتنفع مع المعدود وغير المعدود."
+  },
+  {
+    "q": "Every student ___ a book.",
+    "options": [
+      "has",
+      "have",
+      "having"
+    ],
+    "explanation": "بعد every بنستعمل المفرد."
+  },
+  {
+    "q": "My brother is ___ than me.",
+    "options": [
+      "taller",
+      "tall",
+      "more tall"
+    ],
+    "explanation": "الكلمة القصيرة بنضيف er."
+  },
+  {
+    "q": "This book is ___ than that one.",
+    "options": [
+      "more interesting",
+      "interestinger",
+      "most interesting"
+    ],
+    "explanation": "الكلمة الطويلة بنستعمل more."
+  },
+  {
+    "q": "Today is ___ than yesterday.",
+    "options": [
+      "hotter",
+      "more hot",
+      "hoter"
+    ],
+    "explanation": "hot بنضاعف الحرف الأخير: hotter."
+  },
+  {
+    "q": "She is the ___ girl in the class.",
+    "options": [
+      "smartest",
+      "smarter",
+      "most smart"
+    ],
+    "explanation": "للتفضيل بنضيف est."
+  },
+  {
+    "q": "Mount Everest is the ___ mountain in the world.",
+    "options": [
+      "highest",
+      "higher",
+      "more high"
+    ],
+    "explanation": "للتفضيل بنضيف est."
+  },
+  {
+    "q": "A car is ___ than a bike.",
+    "options": [
+      "faster",
+      "fastest",
+      "more fast"
+    ],
+    "explanation": "للمقارنة بنضيف er."
+  },
+  {
+    "q": "This is the ___ movie I've ever seen.",
+    "options": [
+      "best",
+      "better",
+      "most good"
+    ],
+    "explanation": "good → better → best."
+  },
+  {
+    "q": "English is ___ than math for me.",
+    "options": [
+      "easier",
+      "more easy",
+      "easiest"
+    ],
+    "explanation": "easy → easier."
+  },
+  {
+    "q": "He is ___ than his brother.",
+    "options": [
+      "older",
+      "oldest",
+      "more old"
+    ],
+    "explanation": "old → older."
+  },
+  {
+    "q": "Winter is ___ than summer.",
+    "options": [
+      "colder",
+      "more cold",
+      "coldest"
+    ],
+    "explanation": "cold → colder."
+  },
+  {
+    "q": "She speaks ___ than me.",
+    "options": [
+      "better",
+      "more good",
+      "best"
+    ],
+    "explanation": "well → better."
+  },
+  {
+    "q": "Gold is ___ than silver.",
+    "options": [
+      "more expensive",
+      "expensiver",
+      "most expensive"
+    ],
+    "explanation": "expensive كلمة طويلة فبنستعمل more."
+  },
+  {
+    "q": "Today's test was ___ than the last one.",
+    "options": [
+      "worse",
+      "worst",
+      "more bad"
+    ],
+    "explanation": "bad → worse → worst."
+  },
+  {
+    "q": "I am as ___ as you.",
+    "options": [
+      "tall",
+      "taller",
+      "tallest"
+    ],
+    "explanation": "مع as ... as بنستعمل الصفة العادية."
+  },
+  {
+    "q": "___ is your name?",
+    "options": [
+      "What",
+      "Where",
+      "Who"
+    ],
+    "explanation": "بنسأل عن الاسم بـ What."
+  },
+  {
+    "q": "___ do you live?",
+    "options": [
+      "Where",
+      "What",
+      "Who"
+    ],
+    "explanation": "بنسأل عن المكان بـ Where."
+  },
+  {
+    "q": "___ is your birthday?",
+    "options": [
+      "When",
+      "Where",
+      "Who"
+    ],
+    "explanation": "بنسأل عن الوقت بـ When."
+  },
+  {
+    "q": "___ is that man? He is my uncle.",
+    "options": [
+      "Who",
+      "Where",
+      "When"
+    ],
+    "explanation": "بنسأل عن الشخص بـ Who."
+  },
+  {
+    "q": "___ old are you?",
+    "options": [
+      "How",
+      "What",
+      "Who"
+    ],
+    "explanation": "السؤال عن العمر: How old."
+  },
+  {
+    "q": "___ is this book? It's Ali's.",
+    "options": [
+      "Whose",
+      "Who",
+      "Where"
+    ],
+    "explanation": "بنسأل عن الملكية بـ Whose."
+  },
+  {
+    "q": "___ do you drink coffee? Because I'm sleepy.",
+    "options": [
+      "Why",
+      "What",
+      "Who"
+    ],
+    "explanation": "بنسأل عن السبب بـ Why."
+  },
+  {
+    "q": "___ many brothers do you have?",
+    "options": [
+      "How",
+      "What",
+      "Which"
+    ],
+    "explanation": "التعبير: How many."
+  },
+  {
+    "q": "I have ___ my homework.",
+    "options": [
+      "finished",
+      "finish",
+      "finishing"
+    ],
+    "explanation": "have + التصريف الثالث للفعل."
+  },
+  {
+    "q": "We have ___ here for two years.",
+    "options": [
+      "lived",
+      "live",
+      "living"
+    ],
+    "explanation": "have + التصريف الثالث للفعل."
+  },
+  {
+    "q": "He has already ___ lunch.",
+    "options": [
+      "eaten",
+      "ate",
+      "eat"
+    ],
+    "explanation": "eat → ate → eaten."
+  },
+  {
+    "q": "Have you ever ___ sushi?",
+    "options": [
+      "tried",
+      "try",
+      "trying"
+    ],
+    "explanation": "have + التصريف الثالث للفعل."
+  },
+  {
+    "q": "I haven't ___ him yet.",
+    "options": [
+      "seen",
+      "saw",
+      "see"
+    ],
+    "explanation": "see → saw → seen."
+  },
+  {
+    "q": "I have known her ___ 2015.",
+    "options": [
+      "since",
+      "for",
+      "during"
+    ],
+    "explanation": "since مع نقطة بداية."
+  },
+  {
+    "q": "We have waited ___ two hours.",
+    "options": [
+      "for",
+      "since",
+      "ago"
+    ],
+    "explanation": "for مع مدة زمنية."
+  },
+  {
+    "q": "If it rains, I ___ at home.",
+    "options": [
+      "will stay",
+      "stayed",
+      "staying"
+    ],
+    "explanation": "If + مضارع، will + الفعل."
+  },
+  {
+    "q": "If I ___ rich, I would buy a big house.",
+    "options": [
+      "were",
+      "am",
+      "will be"
+    ],
+    "explanation": "If + ماضي، would + الفعل."
+  },
+  {
+    "q": "Don't ___ late!",
+    "options": [
+      "be",
+      "are",
+      "is"
+    ],
+    "explanation": "بعد Don't بنستعمل الفعل الأساسي."
+  },
+  {
+    "q": "Please ___ the door.",
+    "options": [
+      "close",
+      "closes",
+      "closing"
+    ],
+    "explanation": "الأمر بيجي بالفعل الأساسي."
+  },
+  {
+    "q": "I enjoy ___ books.",
+    "options": [
+      "reading",
+      "read",
+      "to read"
+    ],
+    "explanation": "بعد enjoy بنستعمل ing."
+  },
+  {
+    "q": "She wants ___ a doctor.",
+    "options": [
+      "to be",
+      "be",
+      "being"
+    ],
+    "explanation": "بعد want بنستعمل to."
+  },
+  {
+    "q": "He was hungry, ___ he ate a sandwich.",
+    "options": [
+      "so",
+      "because",
+      "but"
+    ],
+    "explanation": "so بتدل على النتيجة."
+  },
+  {
+    "q": "I like tea, ___ I don't like coffee.",
+    "options": [
+      "but",
+      "so",
+      "because"
+    ],
+    "explanation": "but بتدل على التعارض."
+  },
+  {
+    "q": "What comes after \"Tuesday\"?",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Monday"
+    ],
+    "explanation": "بعد Tuesday بيجي Wednesday."
+  },
+  {
+    "q": "Which month comes after \"March\"?",
+    "options": [
+      "April",
+      "May",
+      "February"
+    ],
+    "explanation": "بعد March بيجي April."
+  },
+  {
+    "q": "Which is the first month of the year?",
+    "options": [
+      "January",
+      "December",
+      "February"
+    ],
+    "explanation": "January هو الشهر الأول."
+  },
+  {
+    "q": "How many days are there in a week?",
+    "options": [
+      "seven",
+      "six",
+      "eight"
+    ],
+    "explanation": "الأسبوع فيه سبع أيام."
+  },
+  {
+    "q": "How many months are there in a year?",
+    "options": [
+      "twelve",
+      "ten",
+      "eleven"
+    ],
+    "explanation": "السنة فيها اثنا عشر شهر."
+  },
+  {
+    "q": "Which number is \"15\"?",
+    "options": [
+      "fifteen",
+      "fifty",
+      "fourteen"
+    ],
+    "explanation": "15 بالإنكليزي fifteen."
+  },
+  {
+    "q": "Which number is \"40\"?",
+    "options": [
+      "forty",
+      "fourteen",
+      "fourty"
+    ],
+    "explanation": "40 بالإنكليزي forty بدون u."
+  },
+  {
+    "q": "5 + 3 = ?",
+    "options": [
+      "eight",
+      "seven",
+      "nine"
+    ],
+    "explanation": "5 + 3 = 8."
+  },
+  {
+    "q": "How many minutes are there in an hour?",
+    "options": [
+      "sixty",
+      "fifty",
+      "thirty"
+    ],
+    "explanation": "الساعة فيها 60 دقيقة."
+  },
+  {
+    "q": "Which season comes after summer?",
+    "options": [
+      "autumn",
+      "spring",
+      "winter"
+    ],
+    "explanation": "بعد الصيف بيجي الخريف."
+  },
+  {
+    "q": "\"How are you?\" - \"___\"",
+    "options": [
+      "I'm fine, thank you.",
+      "I'm twelve.",
+      "It's Monday."
+    ],
+    "explanation": "جواب How are you."
+  },
+  {
+    "q": "\"What's your name?\" - \"___\"",
+    "options": [
+      "My name is Omar.",
+      "I'm from Syria.",
+      "I'm fine."
+    ],
+    "explanation": "جواب السؤال عن الاسم."
+  },
+  {
+    "q": "\"Where are you from?\" - \"___\"",
+    "options": [
+      "I'm from Syria.",
+      "I'm a student.",
+      "I'm fine."
+    ],
+    "explanation": "جواب السؤال عن البلد."
+  },
+  {
+    "q": "\"Nice to meet you.\" - \"___\"",
+    "options": [
+      "Nice to meet you too.",
+      "You're welcome.",
+      "I'm sorry."
+    ],
+    "explanation": "الرد المناسب عند التعارف."
+  },
+  {
+    "q": "\"Thank you very much.\" - \"___\"",
+    "options": [
+      "You're welcome.",
+      "Good morning.",
+      "See you."
+    ],
+    "explanation": "الرد على الشكر."
+  },
+  {
+    "q": "\"Sorry I'm late.\" - \"___\"",
+    "options": [
+      "That's OK.",
+      "Nice to meet you.",
+      "You're welcome."
+    ],
+    "explanation": "الرد على الاعتذار."
+  },
+  {
+    "q": "\"Good morning!\" - \"___\"",
+    "options": [
+      "Good morning!",
+      "Good night!",
+      "Goodbye!"
+    ],
+    "explanation": "الرد على تحية الصباح."
+  },
+  {
+    "q": "\"Happy birthday!\" - \"___\"",
+    "options": [
+      "Thank you!",
+      "You're welcome.",
+      "I'm sorry."
+    ],
+    "explanation": "الرد على التهنئة."
+  },
+  {
+    "q": "\"Can I help you?\" - \"___\"",
+    "options": [
+      "Yes, please.",
+      "Nice to meet you.",
+      "Happy birthday."
+    ],
+    "explanation": "الرد على عرض المساعدة."
+  },
+  {
+    "q": "\"What time is it?\" - \"___\"",
+    "options": [
+      "It's half past six.",
+      "It's Monday.",
+      "It's blue."
+    ],
+    "explanation": "جواب السؤال عن الوقت."
+  },
+  {
+    "q": "\"Do you like pizza?\" - \"___\"",
+    "options": [
+      "Yes, I do.",
+      "Yes, I am.",
+      "Yes, I like."
+    ],
+    "explanation": "السؤال بـ Do جوابه Yes, I do."
+  },
+  {
+    "q": "\"Are you a student?\" - \"___\"",
+    "options": [
+      "Yes, I am.",
+      "Yes, I do.",
+      "Yes, I have."
+    ],
+    "explanation": "السؤال بـ Are جوابه Yes, I am."
+  },
+  {
+    "q": "\"How much is this?\" - \"___\"",
+    "options": [
+      "It's ten dollars.",
+      "It's Monday.",
+      "It's fine."
+    ],
+    "explanation": "جواب السؤال عن السعر."
+  },
+  {
+    "q": "\"What's the weather like?\" - \"___\"",
+    "options": [
+      "It's sunny.",
+      "It's Monday.",
+      "I'm fine."
+    ],
+    "explanation": "جواب السؤال عن الطقس."
+  },
+  {
+    "q": "\"Who is she?\" - \"___\"",
+    "options": [
+      "She is my sister.",
+      "It is my sister.",
+      "He is my sister."
+    ],
+    "explanation": "مع she بنستعمل She is."
+  },
+  {
+    "q": "\"Is this your bag?\" - \"___\"",
+    "options": [
+      "No, it isn't.",
+      "No, I don't.",
+      "No, it doesn't."
+    ],
+    "explanation": "السؤال بـ Is جوابه isn't."
+  },
+  {
+    "q": "\"Can you swim?\" - \"___\"",
+    "options": [
+      "Yes, I can.",
+      "Yes, I do.",
+      "Yes, I am."
+    ],
+    "explanation": "السؤال بـ Can جوابه Yes, I can."
+  },
+  {
+    "q": "She sings ___.",
+    "options": [
+      "beautifully",
+      "beautiful",
+      "beauty"
+    ],
+    "explanation": "بعد الفعل بنستعمل ظرف (adverb)."
+  },
+  {
+    "q": "He drives very ___.",
+    "options": [
+      "carefully",
+      "careful",
+      "care"
+    ],
+    "explanation": "بعد الفعل بنستعمل ظرف: carefully."
+  },
+  {
+    "q": "This soup is ___.",
+    "options": [
+      "delicious",
+      "deliciously",
+      "delicacy"
+    ],
+    "explanation": "بعد is بنستعمل صفة."
+  },
+  {
+    "q": "He answered the question ___.",
+    "options": [
+      "correctly",
+      "correct",
+      "correction"
+    ],
+    "explanation": "بعد الفعل بنستعمل ظرف."
+  },
+  {
+    "q": "I feel ___ today.",
+    "options": [
+      "happy",
+      "happily",
+      "happiness"
+    ],
+    "explanation": "بعد feel بنستعمل صفة."
+  },
+  {
+    "q": "She works ___.",
+    "options": [
+      "hard",
+      "hardly",
+      "hardness"
+    ],
+    "explanation": "hard يعني بجد، وhardly يعني بالكاد."
+  },
+  {
+    "q": "He speaks English ___.",
+    "options": [
+      "well",
+      "good",
+      "best"
+    ],
+    "explanation": "بعد الفعل بنستعمل well مو good."
+  },
+  {
+    "q": "She's an ___ teacher.",
+    "options": [
+      "excellent",
+      "excellently",
+      "excellence"
+    ],
+    "explanation": "قبل الاسم بنستعمل صفة."
+  },
+  {
+    "q": "Please be ___.",
+    "options": [
+      "quiet",
+      "quietly",
+      "quietness"
+    ],
+    "explanation": "بعد be بنستعمل صفة."
+  },
+  {
+    "q": "The ___ of this bag is two kilos.",
+    "options": [
+      "weight",
+      "weigh",
+      "heavy"
+    ],
+    "explanation": "بعد the بنستعمل اسم: weight."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "He goes to school every day.",
+      "He go to school every day.",
+      "He going to school every day."
+    ],
+    "explanation": "مع he بنضيف es: goes."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "There are three books on the table.",
+      "There is three books on the table.",
+      "There be three books on the table."
+    ],
+    "explanation": "books جمع فبنستعمل are."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "She doesn't like coffee.",
+      "She don't like coffee.",
+      "She not like coffee."
+    ],
+    "explanation": "مع she بنستعمل doesn't."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "They went to the park yesterday.",
+      "They goed to the park yesterday.",
+      "They go to the park yesterday."
+    ],
+    "explanation": "go ماضيها went."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "Do you have a pen?",
+      "Does you have a pen?",
+      "Are you have a pen?"
+    ],
+    "explanation": "مع you بنستعمل Do."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "My brother is taller than me.",
+      "My brother is more tall than me.",
+      "My brother is tallest than me."
+    ],
+    "explanation": "tall → taller."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "I have two sisters.",
+      "I have two sister.",
+      "I has two sisters."
+    ],
+    "explanation": "بعد two بنستعمل الجمع، ومع I بنستعمل have."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "Where is my phone?",
+      "Where my phone is?",
+      "Where are my phone?"
+    ],
+    "explanation": "ترتيب السؤال: Where + is + الفاعل."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "She can swim very well.",
+      "She can swims very well.",
+      "She cans swim very well."
+    ],
+    "explanation": "بعد can بنستعمل الفعل الأساسي."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "We are going to school.",
+      "We going to school.",
+      "We is going to school."
+    ],
+    "explanation": "مع we بنستعمل are."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "He didn't go to work.",
+      "He didn't went to work.",
+      "He not go to work."
+    ],
+    "explanation": "بعد didn't بنستعمل الفعل الأساسي."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": [
+      "How many students are there?",
+      "How much students are there?",
+      "How many students is there?"
+    ],
+    "explanation": "students معدود فبنستعمل many وare."
+  }
+]
